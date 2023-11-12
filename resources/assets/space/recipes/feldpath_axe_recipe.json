@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "ss",
+        "/s",
+        "/ "
+    ],
+    "key": {
+        "s": {
+            "item": "space:feldpath_ingot"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "space:feldpath_axe",
+        "count": 1
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "space:hydraulic_press" 
+    }
+  }
+}

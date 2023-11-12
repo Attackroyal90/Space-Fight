@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "pyrowene_crystal"
+        }
+    },
+    "result": {
+        "item": "pyrowene_helmet",
+        "count": 1
+    }
+}
